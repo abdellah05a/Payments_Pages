@@ -67,8 +67,11 @@
                         </div>
                         <div class="form-check">
                         <input class="form-check-input" type="radio" name="paymentMethod" id="mastercard" value="mastercard" required>               			<label class="form-check-label" for="mastercard">Paypal</label>
-                    </div>
-
+			</div>
+                        <div class="form-check">
+                        <input class="form-check-input" type="radio" name="paymentMethod" id="mastercard" value="mastercard" required>                                             <label class="form-check-label" for="mastercard">Westerunion</label>  
+			</div>
+ 
                    
 
                
